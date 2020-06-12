@@ -1,0 +1,23 @@
+R code for Markov Blanket:
+https://www.rdocumentation.org/packages/MXM/versions/0.9.7/topics/The%20max-min%20Markov%20blanket%20algorithm
+https://github.com/cran/MXM/blob/master/R/mmmb.R
+
+Conditional independence tests in R:
+http://www.bnlearn.com/examples/ci.test/
+
+google it:
+test conditional independence fisher correlation
+test conditional independence p value
+
+Fisher and Spearman conditional independence test in R:
+https://rdrr.io/cran/MXM/man/testIndFisher.html
+https://rdrr.io/rforge/pcalg/man/condIndFisherZ.html
+
+Spearman correlation:
+https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient
+
+Pearson correlation coefficient:
+https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+
+G-test:
+https://en.wikipedia.org/wiki/G-test

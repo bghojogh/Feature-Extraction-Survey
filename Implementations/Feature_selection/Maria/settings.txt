@@ -1,0 +1,4 @@
+mRMR: 400 features
+
+Forward Sequential Selection: 400 features
+Rate: 86.67%

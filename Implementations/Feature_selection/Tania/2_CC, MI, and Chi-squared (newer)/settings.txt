@@ -1,0 +1,10 @@
+CC:
+threshold = 0.01
+290 features
+
+MI:
+400 features
+
+chi-square:
+400 features
+

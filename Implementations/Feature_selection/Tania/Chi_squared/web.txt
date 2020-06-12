@@ -1,0 +1,16 @@
+https://nlp.stanford.edu/IR-book/html/htmledition/feature-selectionchi2-feature-selection-1.html
+
+google it:
+chi square feature selection tutorial
+
+==================================
+
+Regarding the confusion in the contingency table of the chi-square method. 
+If you go through the links given below, it means that contingency table 
+can be drawn for more than 2 target values. The value of the chi-square 
+at the end is the summation of all the chi-square values calculated from 
+the pair of a attribute and target value.
+
+https://www.youtube.com/watch?v=xEiQn6sGM20
+
+http://www.statisticshowto.com/what-is-a-contingency-table/

@@ -1,0 +1,7 @@
+This is the official site of WEKA:
+https://www.cs.waikato.ac.nz/~ml/weka/downloading.html
+
+I downloaded the software from Source Forge:
+https://sourceforge.net/projects/weka/
+
+Consistency based feature selection is a part of WEKA software so I don't have a separate file for it.
